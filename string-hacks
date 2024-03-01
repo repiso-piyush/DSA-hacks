@@ -1,0 +1,7 @@
+-- to check whether a string is prefix of other str
+
+Java:
+
+   str.indexOf(prefix) 
+
+  returns -1 for no match, otherwise retrun index of first occurrence
